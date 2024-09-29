@@ -15,10 +15,12 @@
    - [feature_generation.ipynb](feature_generation.ipynb) (часть 1) ![Ready](https://img.shields.io/badge/-ready-green)
    - [features_selection.ipynb](features_selection.ipynb) (часть 2) ![Ready](https://img.shields.io/badge/-ready-green)
 
-   1.6 ML - обучение модели:
+     1.6 ML - обучение модели:
 
    - [mlmodel.ipynb](mlmodel.ipynb) (версия 1) ![Ready](https://img.shields.io/badge/-ready-green)
    - [mlmodel_v2.ipynb](mlmodel_v2.ipynb) (версия 2) ![Ready](https://img.shields.io/badge/-ready-green)
+
+     1.7 [Инструкция](instructions.md) установки среды запуска кода и его запуска
 
 ## Команда "ЛИФТ"
 
