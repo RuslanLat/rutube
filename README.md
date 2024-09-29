@@ -8,7 +8,7 @@
    1.1 [Презентация](presentation.pdf) ![Ready](https://img.shields.io/badge/-ready-green) \
    1.2 [Скринкаст](https://disk.yandex.ru/i/-W2Ocj-WwVBkMQ) обучения модели и формирования признаков ![Ready](https://img.shields.io/badge/-ready-green) \
    1.3 [EDA](eda.ipynb) (разведочный анализ данных) ![Ready](https://img.shields.io/badge/-ready-green) \
-   1.4 [TMZ](gmt_region.ipynb) (получение и формирование данных для приведение времени к региональному) (https://img.shields.io/badge/-ready-green) \
+   1.4 [TMZ](gmt_region.ipynb) (получение и формирование данных для приведение времени к региональному) ![Ready](https://img.shields.io/badge/-ready-green) \
 
 ## Команда "ЛИФТ"
 
