@@ -18,6 +18,8 @@
 1.6.2 [mlmodel_v2.ipynb](mlmodel_v2.ipynb) (версия 2) ![Ready](https://img.shields.io/badge/-ready-green) \
 1.7 [Инструкция](instructions.md) установки среды запуска кода и его запуска
 
+![certificate](certificate.jpg)
+
 ## Команда "ЛИФТ"
 
 Руслан Латипов <img src="images/tglogo.jpg" width="18"> [@rus_lat116](https://t.me/rus_lat116) \
