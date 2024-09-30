@@ -11,7 +11,7 @@
 1.3 [EDA](eda.ipynb) (разведочный анализ данных) ![Ready](https://img.shields.io/badge/-ready-green) \
 1.4 [TMZ](gmt_region.ipynb) (получение и формирование данных для приведение времени к региональному) ![Ready](https://img.shields.io/badge/-ready-green) \
 1.5 FE - формирование признаков: \
-1.5.1 [feature_generation.ipynb](feature_generation. ipynb) (часть 1) ![Ready](https://img.shields.io/badge/-ready-green) \
+1.5.1 [feature_generation.ipynb](feature_generation.ipynb) (часть 1) ![Ready](https://img.shields.io/badge/-ready-green) \
 1.5.2 [features_selection.ipynb](features_selection.ipynb) (часть 2) ![Ready](https://img.shields.io/badge/-ready-green) \
 1.6 ML - обучение модели: \
 1.6.1 [mlmodel.ipynb](mlmodel.ipynb) (версия 1) ![Ready](https://img.shields.io/badge/-ready-green) \
